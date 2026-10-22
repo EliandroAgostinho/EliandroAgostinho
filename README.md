@@ -1,10 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hero-terminal.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./hero-terminal.svg" />
-    <img src="./hero-terminal.svg" alt="Professional developer profile - Terminal" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./hero-grid.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./hero-grid.svg" />
+    <img src="./hero-grid.svg" alt="Professional developer profile - Grid" width="100%" />
   </picture>
 </p>
+
 
 # 💫 About Me:
 👯. Disponível para colaborar em projetos Open Source<br>🌱. Desenvolvendo compoetências em Cloud Computing e devops engineer<br>💬. Interesse em cybersecurity e MCP para agentes de IA
