@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hero-glass.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./hero-glass.svg" />
-    <img src="./hero-glass.svg" alt="Professional developer profile - Glassmorphism" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./hero-terminal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./hero-terminal.svg" />
+    <img src="./hero-terminal.svg" alt="Professional developer profile - Terminal" width="100%" />
   </picture>
 </p>
 
