@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-    <img src="./dark.svg" alt="Professional developer profile - Eliandro Agostinho" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./hero-glass.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./hero-glass.svg" />
+    <img src="./hero-glass.svg" alt="Professional developer profile - Glassmorphism" width="100%" />
   </picture>
 </p>
 
