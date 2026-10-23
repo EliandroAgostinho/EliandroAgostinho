@@ -354,7 +354,7 @@
       <text x="175" y="0" class="white-text" font-weight="500">Eliandro Agostinho</text>
 
       <!-- Role -->
-      <text x="0" y="20" class="label-cyan">&gt; Role</text>
+      <text x="0" y="20" class="label-cyan">&gt; Papel</text>
       <text x="56" y="20" class="muted-dots">............................</text>
       <text x="175" y="20" class="white-text">Full Stack Developer</text>
 
@@ -384,7 +384,8 @@
       <!-- Interests -->
       <text x="0" y="147" class="label-cyan">&gt; Interesses</text>
       <text x="88" y="147" class="muted-dots">......................</text>
-      <text x="175" y="147" class="white-text">AI MCP, Cloud computing, Cybersecurity, Quantum computing</text>
+      <text x="175" y="147" class="white-text">AI MCP, Cloud computing</text>
+      <text x="175" y="147" class="white-text">Cybersecurity, Quantum computing</text>
     </g>
 
     <!-- Projects Section -->
