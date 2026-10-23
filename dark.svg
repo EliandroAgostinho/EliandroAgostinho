@@ -356,7 +356,7 @@
       <!-- Role -->
       <text x="0" y="20" class="label-cyan">&gt; Papel</text>
       <text x="56" y="20" class="muted-dots">............................</text>
-      <text x="175" y="20" class="white-text">Full Stack Developer</text>
+      <text x="175" y="20" class="white-text">Software Developer</text>
 
       <!-- Location -->
       <!--
