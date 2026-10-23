@@ -49,9 +49,9 @@ Git · GitHub · VS Code · Postman · Blender · Canva · Datadog · Trello · 
 <p align="center">
   <!-- ANIMAÇÃO #2: atividade de contribuição (heatmap/snake) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./contrib-activity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./contrib-activity-light.svg" />
-    <img src="./contrib-activity-dark.svg" alt="GitHub Contribution Activity Animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
+    <img src="./dark.svg" alt="GitHub Contribution Activity Animation" width="100%" />
   </picture>
 </p>
 
