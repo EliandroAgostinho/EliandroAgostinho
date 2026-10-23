@@ -47,11 +47,19 @@ Git · GitHub · VS Code · Postman · Blender · Canva · Datadog · Trello · 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EliandroAgostinho&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <!-- ANIMAÇÃO #2: atividade de contribuição (heatmap/snake) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-    <img src="./dark.svg" alt="GitHub Contribution Activity Animation" width="100%" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
+    />
   </picture>
 </p>
 
