@@ -13,8 +13,8 @@
 <p align="center">
   <!-- ANIMAÇÃO #1: mini-terminal com retrato ASCII híbrido -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./m-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./m-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
     <img src="./dark.svg" alt="ASCII developer portrait - About Me" width="80%" />
   </picture>
 </p>
