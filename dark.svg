@@ -379,12 +379,12 @@
       <!-- Focus -->
       <text x="0" y="125" class="label-cyan">&gt; Foco</text>
       <text x="64" y="125" class="muted-dots">..........................</text>
-      <text x="175" y="125" class="white-text">Desenvolvimento backend e operações de TI</text>
+      <text x="175" y="125" class="white-text">Desenvolvimento backend e monitoramento</text>
 
       <!-- Interests -->
       <text x="0" y="147" class="label-cyan">&gt; Interesses</text>
       <text x="88" y="147" class="muted-dots">......................</text>
-      <text x="175" y="147" class="white-text">AI MCP, Cloud computing</text>
+      <text x="175" y="147" class="white-text">AI MCP, Cloud computing e devops</text>
       <text x="175" y="160" class="white-text">Cybersecurity, Quantum computing</text>
     </g>
 
@@ -404,7 +404,7 @@
       
       <!-- peticoes-coloniais-lod -->
       
-      <text x="12" y="40" class="label-cyan">• peticoes-coloniais-lod (Linked Open Data)</text>
+      <text x="12" y="40" class="label-cyan">• peticoes-coloniais-lod</text>
       <text x="95" y="40" class="muted-dots">.......................</text>
       <text x="175" y="40" class="white-text">Consulta de dados hisóricos de peticoes coloniais</text>
       
