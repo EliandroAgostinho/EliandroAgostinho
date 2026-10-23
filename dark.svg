@@ -227,22 +227,24 @@
   <!-- Top Right Nav Tabs -->
   <g class="font-mono dim-cyan" font-size="11.5" opacity="0.8">
     <!-- Code Tab -->
-    <text x="660" y="50">&lt;&gt; Code</text>
+    <text x="660" y="50">&lt;&gt; Codigo</text>
     
     <!-- Projects Tab -->
     <rect x="735" y="41" width="11" height="11" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <path d="M738 46h5M740.5 43.5v5" stroke="#38bdf8" stroke-width="1.2"/>
-    <text x="752" y="50">Projects</text>
+    <text x="752" y="50">Projetos</text>
     
     <!-- Experience Tab -->
     <rect x="835" y="41" width="12" height="11" rx="1.5" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <path d="M835 44h12" stroke="#38bdf8" stroke-width="1.2"/>
-    <text x="854" y="50">Experience</text>
+    <text x="854" y="50">Experiência</text>
     
     <!-- Contact Tab -->
+    <!--
     <circle cx="940" cy="46" r="3" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <circle cx="948" cy="46" r="3" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
     <text x="956" y="50">Contact</text>
+    -->
   </g>
 
   <!-- ================= LEFT PANEL: VISUAL.MAP ================= -->
@@ -340,7 +342,7 @@
     <!-- Terminal Prompt Line -->
     <g transform="translate(20, 48)" class="font-mono" font-size="13">
       <text x="0" y="0" font-weight="bold">
-        <tspan fill="#3b82f6">Eliandro</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
+        <tspan fill="#3b82f6">Eliandro</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./perfil.sh</tspan>
       </text>
     </g>
 
@@ -357,65 +359,61 @@
       <text x="175" y="20" class="white-text">Full Stack Developer</text>
 
       <!-- Location -->
+      <!--
       <text x="0" y="40" class="label-cyan">&gt; Location</text>
       <text x="82" y="40" class="muted-dots">........................</text>
       <text x="175" y="40" class="white-text">Noida, India</text>
+      -->
 
       <!-- Experience -->
-      <text x="0" y="60" class="label-cyan">&gt; Experience</text>
+      <text x="0" y="60" class="label-cyan">&gt; Experiência</text>
       <text x="96" y="60" class="muted-dots">......................</text>
-      <text x="175" y="60" class="white-text">4+ Years</text>
+      <text x="175" y="60" class="white-text">1 ano</text>
 
       <!-- Stack -->
       <text x="0" y="80" class="label-cyan">&gt; Stack</text>
       <text x="64" y="80" class="muted-dots">..........................</text>
-      <text x="175" y="80" class="white-text">React, Next.js, Node.js, TypeScript</text>
-      <text x="175" y="97" class="white-text">MongoDB, Express.js, Tailwind CSS</text>
+      <text x="175" y="80" class="white-text">Python, Java, Flask, FastAPI</text>
+      <text x="175" y="97" class="white-text">MongoDB, PostegreSQL, API REST</text>
 
       <!-- Focus -->
-      <text x="0" y="125" class="label-cyan">&gt; Focus</text>
+      <text x="0" y="125" class="label-cyan">&gt; Foco</text>
       <text x="64" y="125" class="muted-dots">..........................</text>
-      <text x="175" y="125" class="white-text">Building scalable web applications</text>
+      <text x="175" y="125" class="white-text">Desenvolvimento backend e operações de TI</text>
 
       <!-- Interests -->
-      <text x="0" y="147" class="label-cyan">&gt; Interests</text>
+      <text x="0" y="147" class="label-cyan">&gt; Interesses</text>
       <text x="88" y="147" class="muted-dots">......................</text>
-      <text x="175" y="147" class="white-text">AI, Open Source, Tech Content, Gaming</text>
+      <text x="175" y="147" class="white-text">AI MCP, Cloud computing, Cybersecurity, Quantum computing</text>
     </g>
 
     <!-- Projects Section -->
     <g transform="translate(20, 258)" class="font-mono" font-size="11.5">
-      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Projects</text>
+      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Projetos</text>
 
      
       <!-- ArtGenio -->
       
-      <!--  
-      <text x="12" y="20" class="label-cyan">• ArtGenio</text>
+        
+      <text x="12" y="20" class="label-cyan">• UALSpeed</text>
       <text x="95" y="20" class="muted-dots">.......................</text>
-      <text x="175" y="20" class="white-text">AI Prompts Library &amp; Marketplace</text>
-       -->
+      <text x="175" y="20" class="white-text">Sistema Distribuído de Gestão de Dados de Fórmula 1</text>
+       
       
-      <!-- Flex Builder -->
-      <!--
-      <text x="12" y="40" class="label-cyan">• Flex Builder</text>
-      <text x="115" y="40" class="muted-dots">....................</text>
-      <text x="175" y="40" class="white-text">Headless CMS for E-commerce</text>
-       -->
       
-      <!-- EasyFolio -->
-      <!--
-      <text x="12" y="60" class="label-cyan">• EasyFolio</text>
-      <text x="95" y="60" class="muted-dots">.......................</text>
-      <text x="175" y="60" class="white-text">Portfolio Builder with Next.js</text>
-      -->
+      <!-- peticoes-coloniais-lod -->
       
-      <!-- Code Runner -->
-      <!--
-      <text x="12" y="80" class="label-cyan">• Code Runner</text>
-      <text x="110" y="80" class="muted-dots">.....................</text>
-      <text x="175" y="80" class="white-text">Online IDE for DSA Problems</text>
-      -->
+      <text x="12" y="40" class="label-cyan">• peticoes-coloniais-lod (Linked Open Data)</text>
+      <text x="95" y="40" class="muted-dots">.......................</text>
+      <text x="175" y="40" class="white-text">Consulta de dados hisóricos de peticoes coloniais</text>
+      
+      
+      <!-- terraform-gcp-infra-automation -->
+      
+      <text x="12" y="60" class="label-cyan">• terraform-gcp-infra-automation</text>
+      <text x="110" y="60" class="muted-dots">.....................</text>
+      <text x="175" y="60" class="white-text">Automação da Implantação de Infraestrutura Usando Terraform (GCP)</text>
+      
     </g>
                 
     <!-- Links Section -->
@@ -431,11 +429,13 @@
       <text x="175" y="21" class="white-text">github.com/EliandroAgostinho</text>
 
       <!-- Portfolio -->
+      <!--
       <g transform="translate(18, 30)">
         <circle cx="6" cy="6" r="5.5" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
         <line x1="0.5" y1="6" x2="11.5" y2="6" stroke="#38bdf8" stroke-width="1"/>
         <ellipse cx="6" cy="6" rx="2.5" ry="5.5" fill="none" stroke="#38bdf8" stroke-width="1"/>
       </g>
+      -->
 
       <!--
       <text x="36" y="40" class="label-cyan">Portfolio</text>
@@ -489,11 +489,11 @@
 
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
     <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
-      <!--
+      
       <text x="0" y="0">
-        <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan>
+        <tspan fill="#3b82f6" font-weight="bold">Eliandro</tspan><tspan fill="#64748b">:~#</tspan>
       </text>
-      -->
+      
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
   </g>
