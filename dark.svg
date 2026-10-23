@@ -340,16 +340,16 @@
     <!-- Terminal Prompt Line -->
     <g transform="translate(20, 48)" class="font-mono" font-size="13">
       <text x="0" y="0" font-weight="bold">
-        <tspan fill="#3b82f6">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
+        <tspan fill="#3b82f6">Eliandro</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
       </text>
     </g>
 
     <!-- Key-Value Specifications -->
     <g transform="translate(20, 75)" class="font-mono" font-size="11.5">
       <!-- Name -->
-      <text x="0" y="0" class="label-cyan">&gt; Name</text>
+      <text x="0" y="0" class="label-cyan">&gt; Nome</text>
       <text x="56" y="0" class="muted-dots">............................</text>
-      <text x="175" y="0" class="white-text" font-weight="500">Vaibhav Khushalani</text>
+      <text x="175" y="0" class="white-text" font-weight="500">Eliandro Agostinho</text>
 
       <!-- Role -->
       <text x="0" y="20" class="label-cyan">&gt; Role</text>
@@ -418,7 +418,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/vaibhavkhushalani</text>
+      <text x="175" y="21" class="white-text">github.com/EliandroAgostinho</text>
 
       <!-- Portfolio -->
       <g transform="translate(18, 30)">
@@ -426,9 +426,12 @@
         <line x1="0.5" y1="6" x2="11.5" y2="6" stroke="#38bdf8" stroke-width="1"/>
         <ellipse cx="6" cy="6" rx="2.5" ry="5.5" fill="none" stroke="#38bdf8" stroke-width="1"/>
       </g>
+
+      <!--
       <text x="36" y="40" class="label-cyan">Portfolio</text>
       <text x="110" y="40" class="muted-dots">.....................</text>
       <text x="175" y="40" class="white-text">vaibhavkhushalani.com</text>
+      -->
 
       <!-- LinkedIn -->
       <g transform="translate(18, 49)">
@@ -445,9 +448,12 @@
         <circle cx="6" cy="6" r="2.2" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
         <circle cx="9.2" cy="2.8" r="0.6" fill="#38bdf8"/>
       </g>
+
+      <!--
       <text x="36" y="78" class="label-cyan">Instagram</text>
       <text x="115" y="78" class="muted-dots">....................</text>
       <text x="175" y="78" class="white-text">@vaibhav.create</text>
+      -->
     </g>
 
 
