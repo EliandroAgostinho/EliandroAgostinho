@@ -385,7 +385,7 @@
       <text x="0" y="147" class="label-cyan">&gt; Interesses</text>
       <text x="88" y="147" class="muted-dots">......................</text>
       <text x="175" y="147" class="white-text">AI MCP, Cloud computing</text>
-      <text x="175" y="147" class="white-text">Cybersecurity, Quantum computing</text>
+      <text x="175" y="160" class="white-text">Cybersecurity, Quantum computing</text>
     </g>
 
     <!-- Projects Section -->
