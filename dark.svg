@@ -413,7 +413,7 @@
       
       <text x="12" y="60" class="label-cyan">• terraform-gcp-infra-automation</text>
       <text x="110" y="60" class="muted-dots">.....................</text>
-      <text x="185" y="60" class="white-text">Automação da Implantação de Infraestrutura Usando Terraform (GCP)</text>
+      <text x="195" y="60" class="white-text">Automação da Implantação de Infraestrutura Usando Terraform (GCP)</text>
       
     </g>
                 
