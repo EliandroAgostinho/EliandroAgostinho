@@ -469,9 +469,11 @@
 
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
     <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
+      <!--
       <text x="0" y="0">
         <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan>
       </text>
+      -->
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
   </g>
