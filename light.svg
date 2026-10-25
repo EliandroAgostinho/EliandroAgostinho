@@ -352,116 +352,134 @@
     <!-- Terminal Prompt Line -->
     <g transform="translate(20, 48)" class="font-mono" font-size="13">
       <text x="0" y="0" font-weight="bold">
-        <tspan fill="#3b82f6">vaibhav@developer</tspan><tspan fill="#475569">:~#</tspan> <tspan fill="#0f172a">./profile.sh</tspan>
+        <tspan fill="#3b82f6">Eliandro</tspan><tspan fill="#475569">:~#</tspan> <tspan fill="#0f172a">./perfil.sh</tspan>
       </text>
     </g>
 
     <!-- Key-Value Specifications -->
     <g transform="translate(20, 75)" class="font-mono" font-size="11.5">
       <!-- Name -->
-      <text x="0" y="0" class="label-cyan">&gt; Name</text>
+      <text x="0" y="0" class="label-cyan">&gt; Nome</text>
       <text x="56" y="0" class="muted-dots">............................</text>
-      <text x="175" y="0" class="white-text" font-weight="500">Vaibhav Khushalani</text>
+      <text x="175" y="0" class="white-text" font-weight="500">Eliandro Agostinho</text>
 
       <!-- Role -->
-      <text x="0" y="20" class="label-cyan">&gt; Role</text>
+      <text x="0" y="20" class="label-cyan">&gt; Papel</text>
       <text x="56" y="20" class="muted-dots">............................</text>
-      <text x="175" y="20" class="white-text">Full Stack Developer</text>
+      <text x="175" y="20" class="white-text">Software Developer</text>
 
       <!-- Location -->
+      <!--
       <text x="0" y="40" class="label-cyan">&gt; Location</text>
       <text x="82" y="40" class="muted-dots">........................</text>
       <text x="175" y="40" class="white-text">Noida, India</text>
+      -->
 
       <!-- Experience -->
-      <text x="0" y="60" class="label-cyan">&gt; Experience</text>
+      <text x="0" y="60" class="label-cyan">&gt; Experiência</text>
       <text x="96" y="60" class="muted-dots">......................</text>
-      <text x="175" y="60" class="white-text">4+ Years</text>
+      <text x="175" y="60" class="white-text">1 ano</text>
 
       <!-- Stack -->
       <text x="0" y="80" class="label-cyan">&gt; Stack</text>
       <text x="64" y="80" class="muted-dots">..........................</text>
-      <text x="175" y="80" class="white-text">React, Next.js, Node.js, TypeScript</text>
-      <text x="175" y="97" class="white-text">MongoDB, Express.js, Tailwind CSS</text>
+      <text x="175" y="80" class="white-text">Python, Java, Flask, FastAPI</text>
+      <text x="175" y="97" class="white-text">MongoDB, PostegreSQL, API REST</text>
 
       <!-- Focus -->
-      <text x="0" y="125" class="label-cyan">&gt; Focus</text>
+      <text x="0" y="125" class="label-cyan">&gt; Foco</text>
       <text x="64" y="125" class="muted-dots">..........................</text>
-      <text x="175" y="125" class="white-text">Building scalable web applications</text>
+      <text x="175" y="125" class="white-text">Desenvolvimento backend, devops e monitoramento</text>
 
       <!-- Interests -->
-      <text x="0" y="147" class="label-cyan">&gt; Interests</text>
+      <text x="0" y="147" class="label-cyan">&gt; Interesses</text>
       <text x="88" y="147" class="muted-dots">......................</text>
-      <text x="175" y="147" class="white-text">AI, Open Source, Tech Content, Gaming</text>
+      <text x="175" y="147" class="white-text">AI MCP, Cloud computing e devops</text>
+      <text x="175" y="160" class="white-text">Cybersecurity, Quantum computing</text>
     </g>
 
     <!-- Projects Section -->
     <g transform="translate(20, 258)" class="font-mono" font-size="11.5">
-      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Projects</text>
+      <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Projetos</text>
+
+     
+      <!-- UALSpeed -->
       
-      <!-- ArtGenio -->
-      <text x="12" y="20" class="label-cyan">• ArtGenio</text>
+        
+      <text x="12" y="20" class="label-cyan">• UALSpeed</text>
       <text x="95" y="20" class="muted-dots">.......................</text>
-      <text x="175" y="20" class="white-text">AI Prompts Library &amp; Marketplace</text>
-
-      <!-- Flex Builder -->
-      <text x="12" y="40" class="label-cyan">• Flex Builder</text>
-      <text x="115" y="40" class="muted-dots">....................</text>
-      <text x="175" y="40" class="white-text">Headless CMS for E-commerce</text>
-
-      <!-- EasyFolio -->
-      <text x="12" y="60" class="label-cyan">• EasyFolio</text>
-      <text x="95" y="60" class="muted-dots">.......................</text>
-      <text x="175" y="60" class="white-text">Portfolio Builder with Next.js</text>
-
-      <!-- Code Runner -->
-      <text x="12" y="80" class="label-cyan">• Code Runner</text>
-      <text x="110" y="80" class="muted-dots">.....................</text>
-      <text x="175" y="80" class="white-text">Online IDE for DSA Problems</text>
+      <text x="175" y="20" class="white-text">Sistema Distribuído de Gestão de Dados de Fórmula 1</text>
+       
+      
+      
+      <!-- peticoes-coloniais-lod -->
+      
+      <text x="12" y="40" class="label-cyan">• peticoes-coloniais-lod</text>
+      <text x="95" y="40" class="muted-dots">.......................</text>
+      <text x="175" y="40" class="white-text">Consulta de dados hisóricos de peticoes coloniais</text>
+      
+      
+      <!-- terraform-gcp-infra-automation -->
+      
+      <text x="12" y="60" class="label-cyan">• terraform-gcp-infra-automation</text>
+      <text x="110" y="60" class="muted-dots">.....................</text>
+      <text x="225" y="60" class="white-text">Automação da Implantação de infraestrutura</text>
+      <text x="225" y="70" class="white-text">usando Terraform (GCP)</text>      
     </g>
-
+                
     <!-- Links Section -->
     <g transform="translate(20, 375)" class="font-mono" font-size="11.5">
       <text x="0" y="0" class="label-cyan" font-weight="bold">&gt; Links</text>
 
       <!-- GitHub -->
       <g transform="translate(18, 11)">
-        <path d="M6 0C2.69 0 0 2.74 0 6.12c0 2.71 1.72 5.01 4.1 5.82.3.06.41-.13.41-.3v-1.05c-1.67.37-2.02-.82-2.02-.82-.27-.71-.67-.9-.67-.9-.55-.38.04-.37.04-.37.6.04.92.64.92.64.54.94 1.41.67 1.76.51.05-.4.21-.67.38-.83-1.33-.16-2.74-.68-2.74-3.04 0-.67.24-1.22.62-1.65-.06-.16-.27-.79.06-1.64 0 0 .5-.17 1.66.63.48-.14 1-.21 1.5-.21.51 0 1.02.07 1.5.21 1.15-.8 1.65-.63 1.65-.63.34.85.13 1.48.07 1.64.39.43.62.98.62 1.65 0 2.37-1.41 2.88-2.75 3.03.22.2.42.58.42 1.16v1.72c0 .17.11.36.42.3C10.28 11.12 12 8.83 12 6.12 12 2.74 9.31 0 6 0z" fill="#0284c7"/>
+        <path d="M6 0C2.69 0 0 2.74 0 6.12c0 2.71 1.72 5.01 4.1 5.82.3.06.41-.13.41-.3v-1.05c-1.67.37-2.02-.82-2.02-.82-.27-.71-.67-.9-.67-.9-.55-.38.04-.37.04-.37.6.04.92.64.92.64.54.94 1.41.67 1.76.51.05-.4.21-.67.38-.83-1.33-.16-2.74-.68-2.74-3.04 0-.67.24-1.22.62-1.65-.06-.16-.27-.79.06-1.64 0 0 .5-.17 1.66.63.48-.14 1-.21 1.5-.21.51 0 1.02.07 1.5.21 1.15-.8 1.65-.63 1.65-.63.34.85.13 1.48.07 1.64.39.43.62.98.62 1.65 0 2.37-1.41 2.88-2.75 3.03.22.2.42.58.42 1.16v1.72c0 .17.11.36.42.3C10.28 11.12 12 8.83 12 6.12 12 2.74 9.31 0 6 0z" fill="#38bdf8"/>
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/vaibhavkhushalani</text>
+      <text x="175" y="21" class="white-text">github.com/EliandroAgostinho</text>
 
       <!-- Portfolio -->
+      <!--
       <g transform="translate(18, 30)">
-        <circle cx="6" cy="6" r="5.5" fill="none" stroke="#0284c7" stroke-width="1.1"/>
-        <line x1="0.5" y1="6" x2="11.5" y2="6" stroke="#0284c7" stroke-width="1"/>
-        <ellipse cx="6" cy="6" rx="2.5" ry="5.5" fill="none" stroke="#0284c7" stroke-width="1"/>
+        <circle cx="6" cy="6" r="5.5" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
+        <line x1="0.5" y1="6" x2="11.5" y2="6" stroke="#38bdf8" stroke-width="1"/>
+        <ellipse cx="6" cy="6" rx="2.5" ry="5.5" fill="none" stroke="#38bdf8" stroke-width="1"/>
       </g>
+      -->
+
+      <!--
       <text x="36" y="40" class="label-cyan">Portfolio</text>
       <text x="110" y="40" class="muted-dots">.....................</text>
       <text x="175" y="40" class="white-text">vaibhavkhushalani.com</text>
+      -->
 
       <!-- LinkedIn -->
+      <!--
       <g transform="translate(18, 49)">
-        <rect x="0.5" y="0.5" width="11" height="11" rx="2" fill="none" stroke="#0284c7" stroke-width="1.1"/>
-        <text x="3" y="9" font-size="8" fill="#0284c7" font-family="sans-serif" font-weight="bold">in</text>
+        <rect x="0.5" y="0.5" width="11" height="11" rx="2" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
+        <text x="3" y="9" font-size="8" fill="#38bdf8" font-family="sans-serif" font-weight="bold">in</text>
       </g>
       <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
       <text x="175" y="59" class="white-text">linkedin.com/in/vaibhavkhushalani</text>
-
+      -->
+      
       <!-- Instagram -->
+      <!--
       <g transform="translate(18, 68)">
-        <rect x="0.5" y="0.5" width="11" height="11" rx="3" fill="none" stroke="#0284c7" stroke-width="1.1"/>
-        <circle cx="6" cy="6" r="2.2" fill="none" stroke="#0284c7" stroke-width="1.1"/>
-        <circle cx="9.2" cy="2.8" r="0.6" fill="#0284c7"/>
+        <rect x="0.5" y="0.5" width="11" height="11" rx="3" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
+        <circle cx="6" cy="6" r="2.2" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
+        <circle cx="9.2" cy="2.8" r="0.6" fill="#38bdf8"/>
       </g>
+      -->
+
+      <!--
       <text x="36" y="78" class="label-cyan">Instagram</text>
       <text x="115" y="78" class="muted-dots">....................</text>
       <text x="175" y="78" class="white-text">@vaibhav.create</text>
+      -->
     </g>
-
 
     <!-- Live data flow -->
     <g pointer-events="none" opacity=".75">
@@ -482,7 +500,7 @@
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
     <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
       <text x="0" y="0">
-        <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#475569">:~#</tspan>
+        <tspan fill="#3b82f6" font-weight="bold">Eliandro</tspan><tspan fill="#475569">:~#</tspan>
       </text>
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
